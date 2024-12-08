@@ -1,0 +1,1 @@
+In Chapter 6, I added a button with the text 'Sign In,' a textbox with text inside for login, and created a folder using mkdir named 'assets\images' where I placed the picture or logo, since Chapter 6 is all about inserting buttons, textboxes, and images.
