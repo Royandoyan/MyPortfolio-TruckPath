@@ -1,0 +1,1 @@
+In Chapter 7, I added an animation to the button so that when you click it, the button fades slightly, and a circle rotates like a loading icon. Additionally, when you hover over the button, its color changes.
